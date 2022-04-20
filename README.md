@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PapajHapaj
 - 👀 I’m interested in Nothing 
-- 🌱 I’m currently learning How to star write my own hack for games 
+- 🌱 I’m currently learning How to start write my own hack for games 
 - 💞️ I’m looking to collaborate on i stupid help pls 
 - 📫 How to reach me git hub only
 
